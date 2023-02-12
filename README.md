@@ -18,3 +18,5 @@ P.S. 这个readme是在猫猫的干扰下写的🤣，如果哪里写错了可�
 ``我的程序是屎，请不要骂``
 
 感谢:[go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+
+###### 我很可爱，请给我star
