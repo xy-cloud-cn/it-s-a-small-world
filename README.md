@@ -8,6 +8,13 @@ A tool to detect what your qq groupmates and you have in the same qq group
 > git clone https://github.com/xy-cloud-cn/it-s-a-little-world.git  
 > cd it-s-a-little-world  
 > pip install -r requirements.txt  
+
+下载[go-cqhttp的最新release](https://github.com/Mrs4s/go-cqhttp/releases/latest)，放到该文件夹下
+
 > python main.py  
 
 P.S. 这个readme是在猫猫的干扰下写的🤣，如果哪里写错了可以及时指出ww
+
+``我的程序是屎，请不要骂``
+
+感谢:[go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
