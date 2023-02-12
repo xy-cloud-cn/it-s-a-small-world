@@ -95,7 +95,6 @@ gid_list=[]
 for i in range(len(header)):
     gid_list.append(header[i][0])
     header[i]=f'{header[i][0]}-{header[i][1]}'
-print(gid_list)
 with open(qq+'的qq世界.csv','w',encoding='utf-8-sig') as f:
     writer=csv.writer(f)
     writer.writerow(['qq号','昵称']+header)
