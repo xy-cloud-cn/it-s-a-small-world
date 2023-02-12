@@ -1,5 +1,5 @@
 # it-s-a-little-world
-A tool to detect what your qq groupmates and you have in the same qq group
+A tool to detect what your qq groupmates and you have in the same qq group  
 检测你的QQ群友和你的~~缘分~~相同群的工具
 ## 如何使用?
 首先，你需要有一个python3环境，假如你没有，请到python.org来下载
