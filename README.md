@@ -19,6 +19,6 @@ P.S. 这个readme是在猫猫的干扰下写的🤣，如果哪里写错了可�
 
 感谢:[go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
 
-More information:[52PoJie]()
+More information:[52PoJie](https://www.52pojie.cn/thread-1745086-1-1.html)
 
 ###### 我很可爱，请给我star
