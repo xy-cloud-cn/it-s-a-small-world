@@ -1,4 +1,4 @@
-# it-s-a-little-world
+# it-s-a-small-world
 A tool to detect what your qq groupmates and you have in the same qq group  
 检测你的QQ群友和你的~~缘分~~共同群聊的工具
 ## 如何使用?
@@ -6,8 +6,8 @@ A tool to detect what your qq groupmates and you have in the same qq group
 
 然后
 
-    git clone https://github.com/xy-cloud-cn/it-s-a-little-world.git  
-    cd it-s-a-little-world  
+    git clone https://github.com/xy-cloud-cn/it-s-a-small-world.git  
+    cd it-s-a-small-world  
     pip install -r requirements.txt  
 
 下载[go-cqhttp的最新release](https://github.com/Mrs4s/go-cqhttp/releases/latest)，放到该文件夹下
